@@ -1,8 +1,8 @@
 {
-  "//1": "Matthe Chat Guard Bot",
+  "//1": "chav Chat Guard Bot",
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "Matthe Chat Guard Bot",
+  "description": "chav Chat Guard Bot",
   "main": "elchavopy.js",
   "scripts": {
     "start": "node elchavopy.js"
